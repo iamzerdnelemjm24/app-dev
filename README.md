@@ -1,6 +1,7 @@
 # app-dev
    # <span style="color:red">Spider-Man Series</span>
    ## <span style="color:blue">Spider-Man (1967-1970)</span>
+   ![Spider-Man (1967-1970)](C:\Users\pc1\Desktop/to/Spider1.jpg)
         -This was the first animated series to feature Spider-Man and was produced by Grantray-Lawrence Animation.
         -The series featured the voice talents of Paul Soles as Spider-Man/Peter Parker and Peg Dixon as Betty Brant.
         -The iconic Spider-Man theme song, "Spider-Man, Spider-Man, does whatever a spider can," was first introduced in this series.
