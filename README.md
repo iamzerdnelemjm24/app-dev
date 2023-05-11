@@ -1,2 +1,3 @@
 # app-dev
-My first repository
+#Doraemon as my favorite series.
+
